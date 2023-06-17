@@ -10,17 +10,24 @@ description: "Benvenuti nel sito ufficiale della Corale Quarta Eccedente di Vaia
 # Team names, titles and social links
 people:
 - name: Fabio Cavaciocchi
-  pic: 1
+  pic: man
   position: Direttore
 
 - name: Filippo Marinai
-  pic: 2
+  pic: man
   position: Presidente
 
-- name: Federica Rapezzi
-  pic: 3
+- name: Daniele Macchioni Montini
+  pic: man
+  position: Segretario
+
+- name: Arianna Bicchi
+  pic: woman
   position: Soprano
 
+- name: Ada Cavaciocchi
+  pic: woman
+  position: Soprano
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
