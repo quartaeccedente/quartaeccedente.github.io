@@ -9,38 +9,18 @@ description: "Benvenuti nel sito ufficiale della Corale Quarta Eccedente di Vaia
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Fabio Cavaciocchi
   pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  position: Direttore
 
-- name: Larry Parker
+- name: Filippo Marinai
   pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  position: Presidente
 
-- name: Diana Petersen
+- name: Federica Rapezzi
   pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  position: Soprano
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
