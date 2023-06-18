@@ -886,3 +886,9 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+@media screen and (max-width: 767px) {
+    header {
+      width: 100vw;
+    }
+  }
