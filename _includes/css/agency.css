@@ -266,10 +266,11 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
+    position: relative;
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/{{site.immagine_sfondo_header}}');
+    background-image: url('{{site.immagine_sfondo_header}}');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -277,6 +278,23 @@ header {
     background-size: cover;
     -o-background-size: cover;
 }
+
+header::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1; /* Imposta una z-index inferiore agli elementi figli di header */
+}
+
+header > * {
+    position: relative;
+    z-index: 2; /* Imposta una z-index superiore all'overlay */
+}
+
 
 header .intro-text {
     padding-top: 100px;
