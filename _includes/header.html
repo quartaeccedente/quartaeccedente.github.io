@@ -60,6 +60,8 @@
         {% endfor %}
  -->
 
+ <head>
+
  <style>
     .navbar-log {
         position: absolute;
@@ -72,4 +74,15 @@
         max-width: 80px; /* Puoi regolare la larghezza massima a tuo piacimento */
         height: auto;
     }
+    @media (max-width: 767px) { /* Media query per le dimensioni degli smartphone */
+      .navbar-log {
+        display: none; /* Nascondi l'elemento del logo */
+      }
+    }
+
+    .navbar-brand.page-scroll {
+  text-shadow: 0 0 10px black;
+}
 </style>
+
+</head>
