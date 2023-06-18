@@ -1,15 +1,16 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Villa de Il Mulinaccio
+subtitle: Presso la Villa de Il Mulinaccio di Vaiano
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2013-04-18
+img: img_corale/mulinaccio.jpg
+thumbnail: img_corale/mulinaccio.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: April 2013
+client: 
+category:
+description: Presso la Villa de Il Mulinaccio di Vaiano. Un luogo della memoria particolarmente suggestivo. Dove si sta bene ed è bello incontrarsi. Ben restaurato e reso funzionale, ben tenuto e ben usato dal Comune di Vaiano,a dimostrazione che il pubblico può realizzare davvero l’idea di valorizzazione di un bene collettivo. Un motivo in più per arrivare in val di Bisenzio, per conoscerla e per apprezzarne le qualità ambientali, l’accoglienza e la creatività della sua gente, i prodotti agro-alimentari,le ricette, tradizionali e non, che ne fanno una buona tavola. E' qui che molte volte nella nostra storia abbiamo cantanto in occasione di eventi particolari organizzati in Val Di Bisenzio.
+
 
 ---

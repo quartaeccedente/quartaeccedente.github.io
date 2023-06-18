@@ -1,15 +1,15 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Coiano
+subtitle: Concerto a Coiano
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+date: 2021-04-14
+img: img_corale/coiano.jpg
+thumbnail: img_corale/coiano.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: April 2021
+client: 
+category: 
+description: La chiesa attuale venne costruita nel 1904 su progetto di Ezio Cerpi; dell'antica chiesa (che era posta trasversalmente a quella odierna, con l'ingresso che si affacciava su via Bologna), trasformata in locali parrocchiali, resta il pulpito ligneo (1599) e alcuni dipinti, tra i quali un San Filippo dell'ambito del Gabbiani e un'ottocentesca Pentecoste di Tommaso Palloni; interessante è la Via Crucis (1993) in scagliola, opera del pratese Leonetto Tintori. Attualmente è la parrocchia del nostro caro amico Don Carlo al quale regaliamo sempre un concerto a scopo benefico nel periodo natalizio.
 
 ---

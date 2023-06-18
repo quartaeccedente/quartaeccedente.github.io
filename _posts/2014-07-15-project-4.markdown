@@ -1,15 +1,28 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: CD
+subtitle: Il nostro disco
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+date: 2020-04-15
+img: img_corale/cd.jpg
+thumbnail: img_corale/cd.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: April 2020
+client: 
+category: 
+description: "Il nostro CD contiene questi brani incisi da noi 
+Il bianco e dolce cigno, Jacob Arcadelt 1.43
+Old time religion, Anonimo arr.Moses Hogan 2.55
+God's gonna set this world on fire, Anonimo arr.Moses Hogan 1.57
+Locus iste, Anton Bruckner 2.39
+Ave Maria, Jacob Arcadelt/Pierre Louis Dietsch 2.37
+Il pecoraio, Anonimo arr.Claudio Malcapi 2.34
+Cavallino arrì arrò/Andai alle fontane, Anonimo arr.Irene Giuliani/Fabio Cavaciocchi 2.36
+Geographical fugue, Ernst Toch 2.59
+O happy day, Anonimo arr.Edwin Hawkins 3.45
+Guantanamera, Josè Fernandez Diaz/Josè Marti arr.Deke Sharon 3.04
+Bella ciao, Anonimo arr.Ben Parry 3.33
+Yesterday, John Lennon/Paul McCartney arr.Ben Parry 2.44
+Lullabye, Billy Joel arr.Philip Lawson 3.42"
 
 ---
