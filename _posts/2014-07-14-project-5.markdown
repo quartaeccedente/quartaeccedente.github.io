@@ -5,7 +5,7 @@ layout: default
 modal-id: 5
 date: 2021-04-14
 img: img_corale/coiano.jpg
-thumbnail: img_corale/coiano.jpg
+thumbnail: img_corale/coiano_tumb.jpg
 alt: image-alt
 project-date: April 2021
 client: 

@@ -3,11 +3,11 @@ title: Vaiano
 subtitle: I nostri concerti in badia
 layout: default
 modal-id: 3
-date: 2015-04-16
+date: 2019-04-16
 img: img_corale/la corale.jpg
 thumbnail: img_corale/la corale.jpg
 alt: image-alt
-project-date: April 2015
+project-date: April 2019
 client: 
 category: 
 description: La chiesa di San Salvatore, di origine longobarda, faceva parte di un potente monastero, eretto nel IX-X secolo dai benedettini cassinesi e ricostruito nell'XI-XII secolo, probabilmente dopo il passaggio alla Congregazione vallombrosana (1075 circa). L'abbazia esercitò un'azione considerevole sul territorio, gestì alcuni Spedali per poveri e viandanti (uno vicino alla porta superiore del borgo), ebbe il controllo delle acque, mantenne la viabilità, sviluppò agricoltura e silvicoltura nei suoi vasti possedimenti, ebbe il patronato delle chiese di Schignano, Migliana, Cantagallo, e della pieve di Usella. La badia fu ampliata (chiostro e ambienti circostanti) fra il XV e il XVI secolo, mentre la chiesa venne ristrutturata a fine Cinquecento. Nel 1808 il monastero fu soppresso e tutti i suoi beni venduti. La chiesa divenne parrocchia ed ebbe un radicale ripristino su progetto dell'architetto Adelio Colzi, conclusosi nel 1930. Dal 25 Febbraio 1924 con un decreto del Vescovo di Pistoia e Prato, monsignor Gabriele Vettori, la Parrocchia di Vaiano è elevata alla dignità di Propositura. Dal 1992 all'interno dell'area dell'ex complesso monastico è presente un piccolo museo di arte sacra che raccoglie alcuni reperti delle campagne di scavo e di studio effettuate negli anni nel complesso monastico vaianese. All'interno del museo Agnolo Firenzuola (per un breve periodo abate del monastero di vaiano) è presente anche un percorso che racconta la storia e la vita che si è andata a creare attorno al complesso monastico della Valle del Bisenzio.

@@ -3,11 +3,11 @@ title: CD
 subtitle: Il nostro disco
 layout: default
 modal-id: 4
-date: 2020-04-15
+date: 2012-04-15
 img: img_corale/cd.jpg
-thumbnail: img_corale/cd.jpg
+thumbnail: img_corale/cd_tumb.jpg
 alt: image-alt
-project-date: April 2020
+project-date: April 2012
 client: 
 category: 
 description: "Il nostro CD contiene questi brani incisi da noi 
